@@ -12,5 +12,5 @@ public class BlogController {
         return "home";
     }
 
-
+    
 }
